@@ -24,7 +24,7 @@ class UserProfileViewModel {
 let user = User(name: "Tim",
                 surname: "Cook",
                 phone: "8888",
-                email: "timcook@aplle.com")
+                email: "timcook@apple.com")
 
 let userProfile = UserProfileViewModel()
 userProfile.user = user
