@@ -21,7 +21,7 @@ class UserProfileViewModel {
     }
 }
 
-let user = User(name: "Tim",
+let user = User(name: "Tom",
                 surname: "Cook",
                 phone: "8888",
                 email: "timcook@apple.com")
